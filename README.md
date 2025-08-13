@@ -1,4 +1,4 @@
-# 🚀 Atha AI – Platform Chatbot Profesional
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7aab64fb-4c3d-4737-9f62-c514ecf3b69b" /># 🚀 Atha AI – Platform Chatbot Profesional
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
@@ -32,10 +32,4 @@ Dengan arsitektur yang ringkas dan modern, Atha AI dapat digunakan langsung tanp
 
 ---
 
-## 🚀 Cara Cepat Menjalankan
-```bash
-# Jalankan backend (FastAPI)
-python api/main.py
-
-# Jalankan frontend (PHP + Tailwind)
-php -S localhost:8080
+## 🚀 Demo: http://atha-ai-production.up.railway.app/
