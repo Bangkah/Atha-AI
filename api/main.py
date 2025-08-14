@@ -25,4 +25,4 @@ async def ask_gemini(body: Ask):
     return {"answer": data["candidates"][0]["content"]["parts"][0]["text"]}
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+   const API = "https://atha-ai-production.up.railway.app/ask";  
