@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7aab64fb-4c3d-4737-9f62-c514ecf3b69b" /># 🚀 Atha AI – Platform Chatbot Profesional
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
@@ -32,4 +32,7 @@ Dengan arsitektur yang ringkas dan modern, Atha AI dapat digunakan langsung tanp
 
 ---
 
-## 🚀 Demo: http://atha-ai-production.up.railway.app/
+## 🚀 Demo: 
+<img width="1380" height="824" alt="image" src="https://github.com/user-attachments/assets/214d3659-ff07-4602-8674-4a72d19947f0" />
+
+http://atha-ai-production.up.railway.app/
